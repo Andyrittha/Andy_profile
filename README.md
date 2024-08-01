@@ -16,15 +16,7 @@ Software Engineer and a Lifelong Learner!
 
 Languages & Frameworks:
 
-C#
-
-PHP
-
-Dart (Flutter)flutter
-
-Javascript (Web/node.js)javascript
-
-Python (Flask)python
+C#, PHP, Dart (Flutter)flutter, Javascript (Web/node.js)javascript, Python (Flask)
 
 Connect
 
